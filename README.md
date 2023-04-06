@@ -11,7 +11,7 @@ To start using this project, you will need to follow the instructions below.
 1. Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/blxdiak/API-Consuming-Website.git
 ```
 
 2. Navigate to the project directory:
