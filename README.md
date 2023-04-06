@@ -17,7 +17,7 @@ git clone https://github.com/blxdiak/API-Consuming-Website.git
 2. Navigate to the project directory:
 
 ```
-cd API-Consuming-Website
+cd API-Consuming-Website-main
 ```
 
 3. Install the project dependencies using [npm](https://www.npmjs.com/):
